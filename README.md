@@ -14,5 +14,14 @@ Implemented many similar things in a way I could understand and use in other pro
 - Add timed auto transitions
 - Add exit time for states
 
+## Instructions to Add Package
+- In Unity, go to Windows->Package Manager
+- Click the '+' button on the top left
+- Select "Add Package from Git URL"
+- Copy and Paste in `https://github.com/yuzhengwen/hfsm.git`
+- Click "Add"
+- Choose Files to Import
+- Done!
+- 
 ## How to use
 See [[Documentation.md]]
