@@ -1,0 +1,15 @@
+{
+  "name": "com.yuzuval.hfsm",
+  "version": "1.0.0",
+  "displayName": "Hierarchal Finite State Machine",
+  "unity": "2022.3",
+  "keywords": [
+    "State Machine"
+  ],
+  "author": {
+    "name": "Yuzhengwen",
+    "email": "yuzhengwen0217@gmail.com",
+    "url": "https://www.yuzhengwen.github.com"
+  },
+  "description": "A Hierarchal State Machine\n- Sample scene uses this to control player movement"
+}
